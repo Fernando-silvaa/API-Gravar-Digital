@@ -7,7 +7,7 @@
         "titulo": "Caneca Autismo",
         "descricao": "Caneca totalmente personalidaza referenciando o simbolo do Autismo",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 2,
@@ -16,7 +16,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 4,
@@ -34,7 +34,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 5,
@@ -43,7 +43,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 6,
@@ -52,7 +52,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 7,
@@ -61,7 +61,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 8,
@@ -70,7 +70,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 9,
@@ -79,7 +79,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 10,
@@ -88,7 +88,7 @@
         "titulo": "Caneca Dia da Mães",
         "descricao": "Caneca totalmente personalidaza de Dia das Mães",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 11,
@@ -97,7 +97,7 @@
         "titulo": "Caneca prestígio",
         "descricao": "Caneca prestígio totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 12,
@@ -106,7 +106,7 @@
         "titulo": "Caneca páscoa",
         "descricao": "Caneca de Páscoa totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 13,
@@ -115,7 +115,7 @@
         "titulo": "Caneca segurando à Barra",
         "descricao": "Caneca Segurando à barra totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 14,
@@ -124,7 +124,7 @@
         "titulo": "Caneca Eu quero BIS",
         "descricao": "Caneca Eu quero BIS totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 15,
@@ -133,7 +133,7 @@
         "titulo": "Caneca Sonho de Valsa",
         "descricao": "Caneca Sonho de Valsa totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 16,
@@ -142,7 +142,7 @@
         "titulo": "Caneca Diamante Negro",
         "descricao": "Caneca Diamante Negro totalmente personalidaza.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 17,
@@ -151,7 +151,7 @@
         "titulo": "Mini xícara personalizada",
         "descricao": "4 Mini xícara totalmente personalidaza como desejo do cliente.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 18,
@@ -160,7 +160,7 @@
         "titulo": "Caneca Dia dos Pais",
         "descricao": "Caneca Dia dos Pais totalmente personalizada.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 19,
@@ -169,7 +169,7 @@
         "titulo": "Caneca Dia dos Pais",
         "descricao": "Caneca Dia dos Pais totalmente personalizada.",
         "preco": "R$ 30,00",
-        "categoria": "Caneca"
+        "categoria": "caneca"
     },
     {
         "id": 20,
@@ -178,7 +178,7 @@
         "titulo": "Estampa Dia das Mães em toalha",
         "descricao": "Estampa totalmente personalizável em toalhas.",
         "preco": "R$ 20,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 21,
@@ -187,7 +187,7 @@
         "titulo": "Estampa Dia das Mães em toalha",
         "descricao": "Estampa totalmente personalizável em toalhas.",
         "preco": "R$ 20,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 22,
@@ -196,7 +196,7 @@
         "titulo": "Estampa Dia das Mães em toalha",
         "descricao": "Estampa totalmente personalizável em toalhas.",
         "preco": "R$ 20,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 23,
@@ -205,7 +205,7 @@
         "titulo": "Placa de Homenagem",
         "descricao": "Placa de homenagem em estojo de veludo.",
         "preco": "R$ 120,00",
-        "categoria": "Placas"
+        "categoria": "placa"
     },
     {
         "id": 24,
@@ -214,7 +214,7 @@
         "titulo": "Estampa em body de bebê",
         "descricao": "Estampa em body de bebê personalizada.",
         "preco": "R$ 30,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 25,
@@ -223,7 +223,7 @@
         "titulo": "Estampa em body de bebê",
         "descricao": "Estampa em body de bebê da primeira Copa do Mundo.",
         "preco": "R$ 30,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 26,
@@ -232,7 +232,7 @@
         "titulo": "Camiseta estampada",
         "descricao": "Camiseta branca com estampa Copa do Mundo.",
         "preco": "R$ 40,00",
-        "categoria": "Camiseta"
+        "categoria": "camiseta"
     },
     {
         "id": 27,
@@ -241,7 +241,7 @@
         "titulo": "Camiseta estampada",
         "descricao": "Camiseta branca com estampa Copa do Mundo.",
         "preco": "R$ 40,00",
-        "categoria": "Camiseta"
+        "categoria": "camiseta"
     },
     {
         "id": 28,
@@ -250,7 +250,7 @@
         "titulo": "Camiseta estampada",
         "descricao": "Camiseta branca com estampa Brasil na Copa do Mundo.",
         "preco": "R$ 40,00",
-        "categoria": "Camiseta"
+        "categoria": "camiseta"
     },
     {
         "id": 29,
@@ -259,7 +259,7 @@
         "titulo": "Calendário personalizado",
         "descricao": "Impressão colorida em calendário.",
         "preco": "R$ 15,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 30,
@@ -268,7 +268,7 @@
         "titulo": "Calendário personalizado",
         "descricao": "Impressão colorida em calendário.",
         "preco": "R$ 15,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 31,
@@ -277,7 +277,7 @@
         "titulo": "Calendário personalizado",
         "descricao": "Impressão colorida em calendário.",
         "preco": "R$ 15,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 32,
@@ -286,7 +286,7 @@
         "titulo": "Calendário personalizado Professor",
         "descricao": "Impressão colorida em calendário de Professor.",
         "preco": "R$ 15,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 33,
@@ -295,7 +295,7 @@
         "titulo": "Calendário personalizado Professora",
         "descricao": "Impressão colorida em calendário de Professora.",
         "preco": "R$ 15,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 34,
@@ -304,7 +304,7 @@
         "titulo": "Camiseta branca estampa Professor",
         "descricao": "Estampa em camiseta branca para Professores.",
         "preco": "R$ 40,00",
-        "categoria": "Camiseta"
+        "categoria": "camiseta"
     },
     {
         "id": 35,
@@ -313,7 +313,7 @@
         "titulo": "Camiseta branca estampa Professora",
         "descricao": "Estampa em camiseta branca para Professora.",
         "preco": "R$ 40,00",
-        "categoria": "Camiseta"
+        "categoria": "camiseta"
     },
     {
         "id": 36,
@@ -322,7 +322,7 @@
         "titulo": "Estampa em mochila",
         "descricao": "Estampa em mochila de saquinho personalizada.",
         "preco": "R$ 45,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 37,
@@ -331,7 +331,7 @@
         "titulo": "Estampa em mochila",
         "descricao": "Estampa em mochila de saquinho personalizada.",
         "preco": "R$ 45,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 38,
@@ -340,7 +340,7 @@
         "titulo": "Estampa em mochila",
         "descricao": "Estampa em mochila de saquinho personalizada.",
         "preco": "R$ 45,00",
-        "categoria": "Estampa"
+        "categoria": "estampa"
     },
     {
         "id": 39,
@@ -349,7 +349,7 @@
         "titulo": "Tags personalizada",
         "descricao": "Tag personalizada 100 unidades no tamanho 10cm x 20cm.",
         "preco": "R$ 80,00",
-        "categoria": "TAGS"
+        "categoria": "tag"
     },
     {
         "id": 40,
@@ -358,7 +358,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 41,
@@ -367,7 +367,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 42,
@@ -376,7 +376,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 43,
@@ -385,7 +385,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 44,
@@ -394,7 +394,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 45,
@@ -403,7 +403,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para o paizão com foto.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 46,
@@ -412,7 +412,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 47,
@@ -421,7 +421,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 48,
@@ -430,7 +430,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 49,
@@ -439,7 +439,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 50,
@@ -448,7 +448,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 51,
@@ -457,7 +457,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 52,
@@ -466,7 +466,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 53,
@@ -475,7 +475,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 54,
@@ -484,7 +484,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 almofada e 2 canecas.",
         "preco": "R$ 90,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 55,
@@ -493,7 +493,7 @@
         "titulo": "Blocos de recibos",
         "descricao": "Blocos de recibo colorido com 500 unidades no tamanho 10cm x 15cm.",
         "preco": "R$ 150,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 56,
@@ -502,7 +502,7 @@
         "titulo": "Blocos de tarefas",
         "descricao": "Blocos de tarefas colorido com 500 unidades no tamanho 10cm x 15cm.",
         "preco": "R$ 150,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 57,
@@ -511,7 +511,7 @@
         "titulo": "Blocos Planejamento da Semana",
         "descricao": "Blocos planejamento colorido com 500 unidades no tamanho 20cm x 15cm.",
         "preco": "R$ 180,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 58,
@@ -520,7 +520,7 @@
         "titulo": "Blocos de Receituário",
         "descricao": "Blocos de receituário colorido com 1000 unidades no tamanho 10cm x 15cm.",
         "preco": "R$ 240,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 59,
@@ -529,7 +529,7 @@
         "titulo": "Carimbo grande para Sacolas",
         "descricao": "Carimbo de madeira tamanho 8cm x 8cm. Preço sujeito a mudança conforme o tamanho",
         "preco": "R$ 80,00",
-        "categoria": "Carimbo"
+        "categoria": "carimbo"
     },
     {
         "id": 60,
@@ -538,7 +538,7 @@
         "titulo": "Calendário impresso",
         "descricao": "Calendário impresso totalmente personalizável. Preço unitário",
         "preco": "R$ 5,00",
-        "categoria": "Impressos"
+        "categoria": "impressos"
     },
     {
         "id": 61,
@@ -547,7 +547,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 caneca e 1 quebra-cabeça.",
         "preco": "R$ 70,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 62,
@@ -556,7 +556,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 caneca e 1 quebra-cabeça.",
         "preco": "R$ 70,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 63,
@@ -565,7 +565,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 caneca e 1 quebra-cabeça.",
         "preco": "R$ 70,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 64,
@@ -574,7 +574,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 caneca e 1 quebra-cabeça.",
         "preco": "R$ 70,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 65,
@@ -583,7 +583,7 @@
         "titulo": "Kit namorados",
         "descricao": "Kit namorados com estampas em 2 fronhas, 1 caneca e 1 quebra-cabeça.",
         "preco": "R$ 70,00",
-        "categoria": "Kit Namorados"
+        "categoria": "namorado"
     },
     {
         "id": 66,
@@ -592,7 +592,7 @@
         "titulo": "Tonel com impressão de Logomarca",
         "descricao": "Tonel pintado + logomarca de sua loja.",
         "preco": "R$ 400,00",
-        "categoria": "Tonel"
+        "categoria": "tonel"
     },
     {
         "id": 67,
@@ -601,7 +601,7 @@
         "titulo": "Tonel com impressão de Logomarca",
         "descricao": "Tonel pintado + logomarca de sua loja.",
         "preco": "R$ 400,00",
-        "categoria": "Tonel"
+        "categoria": "tonel"
     },
     {
         "id": 68,
@@ -610,7 +610,7 @@
         "titulo": "Tonel com impressão de Logomarca",
         "descricao": "Tonel pintado + logomarca de sua loja.",
         "preco": "R$ 400,00",
-        "categoria": "Tonel"
+        "categoria": "tonel"
     },
     {
         "id": 69,
@@ -619,7 +619,7 @@
         "titulo": "Tonel com impressão de Logomarca",
         "descricao": "Tonel pintado + logomarca de sua loja.",
         "preco": "R$ 400,00",
-        "categoria": "Tonel"
+        "categoria": "tonel"
     },
     {
         "id": 70,
@@ -628,7 +628,7 @@
         "titulo": "Tonel com impressão de Logomarca",
         "descricao": "Tonel pintado + logomarca de sua loja.",
         "preco": "R$ 400,00",
-        "categoria": "Tonel"
+        "categoria": "tonel"
     },
     {
         "id": 71,
@@ -637,7 +637,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp com o seu próprio nome.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 72,
@@ -646,7 +646,7 @@
         "titulo": "Caneca Chopp",
         "descricao": "Caneca de Chopp para seu super namorado.",
         "preco": "R$ 50,00",
-        "categoria": "Caneca Chopp"
+        "categoria": "caneca-chopp"
     },
     {
         "id": 73,
@@ -655,7 +655,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 74,
@@ -664,7 +664,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 75,
@@ -673,7 +673,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 76,
@@ -682,7 +682,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 77,
@@ -691,7 +691,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 78,
@@ -700,7 +700,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 79,
@@ -709,7 +709,7 @@
         "titulo": "Quebra-Cabeça",
         "descricao": "Quebra-cabeça personalizado com foto, palavras ou o que o cliente preferir.",
         "preco": "R$ 55,00",
-        "categoria": "Quebra-cabeça"
+        "categoria": "quebra-cabeça"
     },
     {
         "id": 80,
@@ -718,7 +718,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 81,
@@ -727,7 +727,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 82,
@@ -736,7 +736,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 83,
@@ -745,7 +745,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 84,
@@ -754,7 +754,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 85,
@@ -763,7 +763,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 86,
@@ -772,7 +772,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 87,
@@ -781,7 +781,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     },
     {
         "id": 88,
@@ -790,7 +790,7 @@
         "titulo": "Chinelo + 2 Caneca",
         "descricao": "Kit com par de chinelos + 2 canecas.",
         "preco": "R$ 70,00",
-        "categoria": "Chinelo"
+        "categoria": "chinelo"
     }
 
 ]
